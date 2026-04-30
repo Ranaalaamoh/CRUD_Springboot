@@ -4,7 +4,9 @@ A simple and scalable Task Management Backend System built using Java Spring Boo
 The project supports Users, Projects, and Tasks management with full CRUD operations, pagination, filtering, validation, and global error handling.
 
 Tech Stack
+
 Java 17+
+
 Spring Boot
 Spring Data JPA
 Hibernate
