@@ -25,6 +25,7 @@ Lombok
 
 Features
 
+
 Full CRUD for Users, Projects, Tasks
 
  Pagination & Sorting
@@ -44,6 +45,9 @@ Full CRUD for Users, Projects, Tasks
  Seed Data for Development
  
  RESTful API with JSON responses
+
+
+
 
 com.example.demo
 
@@ -66,6 +70,8 @@ com.example.demo
  ┣ Specifications
  
  ┣ config
+
+
 
 
 Run with DEV profile (H2 Database)
