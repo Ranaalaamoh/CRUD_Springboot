@@ -8,36 +8,63 @@ Tech Stack
 Java 17+
 
 Spring Boot
+
 Spring Data JPA
+
 Hibernate
+
 MySQL (Production)
+
 H2 Database (Development)
+
 Swagger / OpenAPI
+
 Maven
+
 Lombok
 
 Features
+
 Full CRUD for Users, Projects, Tasks
+
  Pagination & Sorting
+ 
  Filtering (Projects & Tasks)
+ 
  DTOs + Mappers (Clean Architecture)
+ 
  Global Exception Handling
+ 
  Validation (Bean Validation)
+ 
  Swagger API Documentation
+ 
  MySQL + H2 Profiles
+ 
  Seed Data for Development
+ 
  RESTful API with JSON responses
 
 com.example.demo
+
  ┣ controller
+ 
  ┣ service
+ 
  ┣ repository
+ 
  ┣ entity
+ 
  ┣ DTO
+ 
  ┣ mapper
+ 
  ┣ Enum
+ 
  ┣ ExceptionHandling
+ 
  ┣ Specifications
+ 
  ┣ config
 
 
