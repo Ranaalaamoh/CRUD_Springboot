@@ -3,7 +3,6 @@ Task Management System - Spring Boot REST API
 A simple and scalable Task Management Backend System built using Java Spring Boot.
 The project supports Users, Projects, and Tasks management with full CRUD operations, pagination, filtering, validation, and global error handling.
 
-
 Tech Stack
 Java 17+
 Spring Boot
@@ -16,16 +15,16 @@ Maven
 Lombok
 
 Features
-✅ Full CRUD for Users, Projects, Tasks
-✅ Pagination & Sorting
-✅ Filtering (Projects & Tasks)
-✅ DTOs + Mappers (Clean Architecture)
-✅ Global Exception Handling
-✅ Validation (Bean Validation)
-✅ Swagger API Documentation
-✅ MySQL + H2 Profiles
-✅ Seed Data for Development
-✅ RESTful API with JSON responses
+Full CRUD for Users, Projects, Tasks
+ Pagination & Sorting
+ Filtering (Projects & Tasks)
+ DTOs + Mappers (Clean Architecture)
+ Global Exception Handling
+ Validation (Bean Validation)
+ Swagger API Documentation
+ MySQL + H2 Profiles
+ Seed Data for Development
+ RESTful API with JSON responses
 
 com.example.demo
  ┣ controller
